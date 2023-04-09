@@ -1,0 +1,111 @@
+
+:root{
+    --lavanda:#c4c0e2;
+    --lavand:#b9b4de;
+    --lilaprimavera:#c8b7d6;
+    --blanco: #fff;
+    --fuente:'Quicksand', sans-serif;
+}
+body{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+
+}
+header{
+
+	height: 110px;
+	width: 100%;
+	background:hsl(300, 67%, 16%);
+    text-align: center;
+    position: fixed;
+    top: 0;
+    padding: 10px; 
+    
+}
+
+.contendedorPrimero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .DivisionUsuario{
+    flex-basis: 100px;
+    padding-right:5px;
+  }
+.Titulo{
+	padding-left: 100px;
+	margin: 30px;
+	color:#03141a;
+
+}
+.OtrosTextos{
+	padding-right: 10px;
+	color:#2e19eb;	
+}
+.B1{
+    background-color: rgb(190, 138, 190);
+    border: 10px;
+    padding: 10px 0px;
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 0px 3px 0px #b9b4de;
+}
+.B1 span{
+    margin-right: 10px;
+}
+.B1:hover{
+    background-color: rgb(115, 236, 245);
+}
+.B2{
+    background-color: rgb(190, 138, 190);
+    border: 10px;
+    padding: 10px 0px;
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 0px 3px 0px #b9b4de;
+}
+.B2 span{
+    margin-right: 10px;
+}
+.B2:hover{
+    background-color: rgb(115, 236, 245);
+}
+.B3{
+    background-color: rgb(190, 138, 190);
+    border: 10px;
+    padding: 10px 0px;
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 0px 3px 0px #b9b4de;
+}
+.B3 span{
+    margin-right: 10px;
+}
+.B3:hover{
+    background-color: rgb(115, 236, 245);
+}
+.B4{
+    background-color: rgb(190, 138, 190);
+    border: 10px;
+    padding: 10px 0px;
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 0px 3px 0px #b9b4de;
+}
+.B4 span{
+    margin-right: 10px;
+}
+.B4:hover{
+    background-color: rgb(115, 236, 245);
+}
